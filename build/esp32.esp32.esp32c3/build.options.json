@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "/Users/igi.kang/Library/Arduino15/libraries",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32c3:UploadSpeed=921600,CDCOnBoot=cdc,CPUFreq=160,FlashFreq=80,FlashMode=qio,FlashSize=4M,PartitionScheme=min_spiffs,DebugLevel=none,EraseFlash=none,JTAGAdapter=default,ZigbeeMode=default",
+  "hardwareFolders": "/Users/igi.kang/Library/Arduino15/packages/esp32/hardware/esp32/3.3.7,/Users/igi.kang/Library/Arduino15/packages/esp32/hardware/esp32/3.3.7",
+  "otherLibrariesFolders": "/Users/igi.kang/Documents/Arduino/libraries",
+  "sketchLocation": "/Users/igi.kang/Documents/Arduino/sos_gateway_telegram_v3"
+}
