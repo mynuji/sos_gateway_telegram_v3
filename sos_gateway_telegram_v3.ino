@@ -21,7 +21,7 @@
 // ⚠️ [보안 및 OTA 사용자 설정 영역]
 // =========================================================================
 // 1. 프로비저닝 시 사용했던 우리 가족만의 마스터 키
-#define SECRET_KEY "Youngik_Secure_SOS_Key_2026!@#"
+#define SECRET_KEY "Secure_SOS_Key_2026!@#"
 
 // 2. 펌웨어 버전 관리 (현재 기기에 설치된 버전)
 const String CURRENT_VERSION = "1.0";
